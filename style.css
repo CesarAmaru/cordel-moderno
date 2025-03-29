@@ -47,11 +47,13 @@ main{
     font-weight: 400;
     line-height: 2em;
     
+    
 }
 
 section{
     padding-top: 10vh;
     padding-bottom: 10vh;
+    padding-left: 30px;
 }
 
 .imagem{
